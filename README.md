@@ -8,3 +8,4 @@ check merge2
 check merge 4
 check tab2
 check tab1
+check merge6
